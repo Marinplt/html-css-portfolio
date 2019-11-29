@@ -1,0 +1,132 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    width: 502px;
+    height: 135px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.playfair {
+    font-family: 'Playfair Display', serif;
+}
+
+.sans {
+    font-family: 'Open Sans', serif;
+}
+
+#text1 {
+    background-image: url(../images/hero.png);
+    text-align: center;
+    width: auto;
+    height: 400px;
+    font-size: 60px;
+    color: white;
+    background-position: center;
+    line-height: 400px;
+    margin-bottom: 0px;
+}
+
+.soustitre {
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 30px;
+}
+
+#paragraphe {
+    text-align: justify;
+    margin-top: 30px;
+}
+#paragraphe1{
+    margin-bottom: 30px;
+}
+#grosbloc {
+    width: 990px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blocdroite {
+    display: block;
+    width: 480px;
+    float: right;
+    margin-top: 50px;
+}
+
+.blocgauche {
+    display: block;
+    width: 480px;
+    margin-top: 50px;
+    float: left;
+}
+
+.images {
+    font-size: 18px;
+    text-align: right;
+    text-decoration: underline;
+}
+#gallerie > img {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+#gallerie > img:nth-child(even){
+    margin-right: 0px;
+}
+#bouton{
+    background-color: rgb(44, 44, 44);
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    padding: 20px;
+}
+.bouton{
+    font-size: 24px;
+    text-decoration: none;
+    color: white;
+}
+footer{
+    background-color: rgb(31, 31, 31);
+    height: 167px;
+    margin-top: 80px;
+}
+#footer{
+    width: 990px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#home{
+    color: white;
+    line-height: 167px;
+    font-size: 16px;
+    text-decoration: none;
+    margin-left: 25px;
+}
+#gallery{
+    color: white;
+    line-height: 167px;
+    font-size: 16px;
+    text-decoration: none;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+#contact{
+    color: white;
+    line-height: 167px;
+    font-size: 16px;
+    text-decoration: none;
+}
+#logofooter{
+    margin-right: 25px;
+    margin-top: 50px;
+    float: right;
+}

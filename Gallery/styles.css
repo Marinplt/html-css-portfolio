@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+}
+.logo {
+    width: 502px;
+    height: 135px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.playfair {
+    font-family: 'Playfair Display', serif;
+}
+.sans {
+    font-family: 'Open Sans', serif;
+}
+#titre {
+    background-image: url(../images/hero.png);
+    text-align: center;
+    width: auto;
+    height: 70px;
+    font-size: 32px;
+    color: white;
+    background-position: center;
+    line-height: 70px;
+    margin-bottom: 0px;
+}
+footer{
+    background-color: rgb(31, 31, 31);
+    height: 167px;
+    margin-top: 80px;
+}
+#footer{
+    width: 990px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#home{
+    color: white;
+    line-height: 167px;
+    font-size: 16px;
+    text-decoration: none;
+    margin-left: 25px;
+}
+#gallery{
+    color: white;
+    line-height: 167px;
+    font-size: 16px;
+    text-decoration: none;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+#contact{
+    color: white;
+    line-height: 167px;
+    font-size: 16px;
+    text-decoration: none;
+}
+#logofooter{
+    margin-right: 25px;
+    margin-top: 50px;
+    float: right;
+}
+#images{
+    width: 990px;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#gallerie{
+    margin-bottom: 60px;
+    margin-left: -30px;
+}
+#gallerie > a{
+    display: block;
+    float: left;
+    width: 310px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+.clearleft{
+    clear: left;
+}
+.photo{
+    text-align: center;
+    text-decoration: none;
+}

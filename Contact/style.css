@@ -1,0 +1,152 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo {
+    width: 502px;
+    height: 135px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.playfair {
+    font-family: 'Playfair Display', serif;
+}
+
+.sans {
+    font-family: 'Open Sans', serif;
+    font-size: 16px;
+}
+
+.soustitre {
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 30px;
+}
+
+#paragraphe1 {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+#grosbloc {
+    width: 990px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blocgauche {
+    display: block;
+    width: 480px;
+    margin-top: 50px;
+    float: left;
+    text-align: justify;
+}
+
+.blocdroite {
+    display: block;
+    width: 480px;
+    float: right;
+    margin-top: 50px;
+}
+
+#titre {
+    background-image: url(../images/hero.png);
+    text-align: center;
+    width: auto;
+    height: 70px;
+    font-size: 32px;
+    color: white;
+    background-position: center;
+    line-height: 70px;
+    margin-bottom: 0px;
+}
+#logofooter {
+    float: right;
+    margin-right: 25px;
+    margin-top: 50px;
+}
+#footer {
+    height: 167px;
+    background-color: black;
+}
+#blockfooter{
+    width: 990px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#home {
+    color: white;
+    line-height: 167px;
+    font-size: 16px;
+    text-decoration: none;
+    margin-left: 25px;
+}
+
+#gallery {
+    color: white;
+    line-height: 167px;
+    font-size: 16px;
+    text-decoration: none;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#contact {
+    color: white;
+    line-height: 167px;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.clear {
+    clear: both;
+}
+
+#formulaire {
+    font-size: 16px;
+}
+
+.formulaire {
+    width: 100%;
+    height: 30px;
+    box-sizing: border-box;
+    resize: none;
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+
+#message {
+    resize: none;
+    height: 200px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.label{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.bouton{
+    text-align: left;
+    margin-bottom: 80px;
+}
+#bouton{
+    display: inline-block;
+    font-family: 'Playfair Display', serif;
+    font-size: 24px;
+    color: white;
+    background-color: black;
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    border-left: 20px solid black;
+    border-right: 20px solid black;
+    margin-top: 16px;
+    text-decoration: none;
+}
